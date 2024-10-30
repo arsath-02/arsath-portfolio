@@ -1,0 +1,12 @@
+.fireball-gradient {
+    background: radial-gradient(circle, rgba(255,69,0,0.9) 0%, rgba(255,140,0,0.7) 50%, rgba(255,69,0,0.9) 100%);
+    border-radius: 50%;
+    overflow: hidden; /* Hide overflow */
+  }
+  
+  .shadow-fireball {
+    box-shadow: 0 0 15px rgba(255, 69, 0, 0.6);
+  }
+  
+  /* Remove comet-tail and comet-fly animations */
+  

@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/arsath0206/3d-portfolio">
-        <img src="src/assets/logo3.png" alt="3D Portfolio Logo" width="235" height="150">
+        <img src="src/assets/arsath02.png" alt="3D Portfolio Logo" width="235" height="150">
     </a>
 </div>
 

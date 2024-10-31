@@ -25,7 +25,7 @@
     "react-ts-typewriter": "^0.1.8-b",
     "react-vertical-timeline-component": "^3.6.0",
     "slick-carousel": "^1.8.1",
-    "three": "^0.151.0",
+    "three": "^0.151.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",

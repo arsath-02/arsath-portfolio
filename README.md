@@ -8,7 +8,7 @@
 
 **An immersive 3D space to showcase my projects and skills, built using Three.js and React.js.**
 
-[**🚀 View Live Demo**](https://arsath.vercel.app/)
+[**🚀 View Live Demo**](https://arsath-portfolio.netlify.app/)
 
 ## 📋 About the Project
 
